@@ -7,12 +7,8 @@
 @@||s3.amazonaws.com^
 @@||hosts-file.net^
 @@||github.com^
-@@||reddestdream.github.io^
-@@||v.firebog.net^
-@@||www.dshield.org^
 @@||www.joewein.net^
 @@||hostsfile.org^
-@@||someonewhocares.org^
 @@||winhelp2002.mvps.org^
 @@||gist.githubusercontent.com^
 @@||mirror.cedia.org.ec^
