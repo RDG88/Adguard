@@ -1051,3 +1051,4 @@
 @@||youtu.be^
 @@||youtube-nocookie.com^
 @@||yt3.ggpht.com^
+@@||cdn.krxd.net^$important
