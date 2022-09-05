@@ -1048,7 +1048,6 @@
 @@||xflight.xboxlive.com^
 @@||xkms.xboxlive.com^
 @@||xsts.auth.xboxlive.com^
-@@||youtu.be^
 @@||youtube-nocookie.com^
 @@||yt3.ggpht.com^
 @@||cdn.krxd.net^$important
