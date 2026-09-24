@@ -263,7 +263,6 @@
 @@||fonts.gstatic.com^
 @@||onedrive.live.com^
 @@||google.com^
-@@||yahoo.com^
 @@||microsoft.com^
 @@||skype.com^
 @@||linkedin.com^
